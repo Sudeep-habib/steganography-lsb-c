@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+*.o
+*.out
+a.out
+
+# Ignore temporary files
+*~
+*.swp
+
+# Ignore OS files
+.DS_Store
